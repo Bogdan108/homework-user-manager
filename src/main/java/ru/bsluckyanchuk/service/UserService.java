@@ -1,7 +1,6 @@
 package ru.bsluckyanchuk.service;
 
 import lombok.AllArgsConstructor;
-import org.apache.catalina.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import ru.bsluckyanchuk.dto.UserDTO;
@@ -10,7 +9,6 @@ import ru.bsluckyanchuk.repository.UserRepository;
 import ru.bsluckyanchuk.utils.Compute;
 
 import java.time.LocalDateTime;
-import java.util.List;
 
 @Service
 @AllArgsConstructor

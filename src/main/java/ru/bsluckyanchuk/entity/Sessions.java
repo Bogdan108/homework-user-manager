@@ -32,12 +32,4 @@ public class Sessions {
     @Column(name = "expires_at")
     private LocalDateTime expiresAt;
 
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public Long getId() {
-        return id;
-    }
 }
