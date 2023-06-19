@@ -45,10 +45,10 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"oleg@1\",\n    \"desciption\": \"23433234443434434344\",\n    \"duration\": 11111,\n    \"coachName\": \"customer\"\n}",
+					"raw": "{\n    \"name\": \"oleg@1\",\n    \"descr\": \"23433234443434434344\",\n    \"duration\": 11111,\n    \"coachName\": \"customer\"\n}",
 					"options": {
 						"raw": {
-							"language": "javascript"
+							"language": "json"
 						}
 					}
 				},
