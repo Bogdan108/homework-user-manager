@@ -29,10 +29,6 @@ public class Workout {
         this.descr = descipt;
     }
 
-    public long getDuration() {
-        return duration;
-    }
-
     public void setDuration(long duration) {
         this.duration = duration;
     }
